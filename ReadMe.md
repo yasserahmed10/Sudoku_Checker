@@ -1,6 +1,6 @@
-# Sudoku Validator
+# Sudoku_Checker
 
-This project is a Sudoku validator implemented in Kotlin. It checks if a given Sudoku board is valid based on the standard Sudoku rules.
+This project is a Sudoku_Checker implemented in Kotlin. It checks if a given Sudoku board is valid based on the standard Sudoku rules.
 
 ## Features
 
@@ -18,8 +18,8 @@ This project is a Sudoku validator implemented in Kotlin. It checks if a given S
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yasserahmed10/sudoku-validator.git
-    cd sudoku-validator
+    git clone https://github.com/yasserahmed10/Sudoku_Checker.git
+    cd Sudoku_Checker
     ```
 
 2. Open the project in IntelliJ IDEA.
